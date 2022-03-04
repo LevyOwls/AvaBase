@@ -1,0 +1,17 @@
+[
+    {
+        "descripcion": "1",
+        "input": "Caso de prueba uno",
+        "output": "Caso de prueba uno"
+    },
+    {
+        "descripcion": "2",
+        "input": "Caso de prueba dos",
+        "output": "Esto deberia fallar"
+    },
+    {
+        "descripcion": "3",
+        "input": "Caso de prueba tres",
+        "output": "Caso de prueba tres"
+    }
+]

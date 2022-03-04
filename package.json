@@ -1,0 +1,13 @@
+{
+	"scripts": {
+		"test": "ava"
+	},
+	"devDependencies": {
+		"ava": "^4.0.1",
+		"supertest": "^6.2.2"
+	},
+	"dependencies": {
+		"chromedriver": "^98.0.1",
+		"selenium-webdriver": "^4.1.1"
+	}
+}
